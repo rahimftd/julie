@@ -160,16 +160,14 @@ a:visited {
 	margin-bottom: 25px;
 }
 
+.video {
+	width: 375px; 
+	height: 211px;
+}
+
 @media screen and (min-width: 561px) {
 	.video {
 		width: 560px; 
 		height: 315px;
-	}
-}
-
-@media screen and (max-width: 561px) {
-	.video {
-		width: 375px; 
-		height: 211px;
 	}
 }
