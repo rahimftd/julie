@@ -11,7 +11,7 @@ var videoArr = ['<iframe class="video" src="https://www.youtube.com/embed/adtKKh
 '<iframe class="video" src="https://www.youtube.com/embed/3T6YIcrGIQY" frameborder="0" allowfullscreen></iframe>',
 '<iframe class="video" src="https://www.youtube.com/embed/NPh1nX4qOaQ" frameborder="0" allowfullscreen></iframe>',
 '<iframe class="video" src="https://www.youtube.com/embed/F1FQ2KGZhMc" frameborder="0" allowfullscreen></iframe>',
-'<iframe class="video" src="https://www.youtube.com/embed/3urq1x1mTJk" frameborder="0" allowfullscreen></iframe>'];
+'<iframe class="video" src="https://www.youtube.com/embed/Csx91pjBZm0" frameborder="0" allowfullscreen></iframe>'];
 
 var friendThumbs = [
 	"img/yen.jpg",
