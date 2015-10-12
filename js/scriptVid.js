@@ -10,10 +10,24 @@ function init() {
 	var navButtonOne = document.getElementById("navButtonOne");
 	var navButtonTwo = document.getElementById("navButtonTwo");
 
+	var alreadyPlayed = [];
+
 	function randomVideo() {
 		var videoIndex = Math.floor(Math.random() * videoArr.length);
+
+		while (alreadyPlayed.indexOf(videoIndex) > -1) {
+			var videoIndex = Math.floor(Math.random() * videoArr.length);
+		}
+
+		alreadyPlayed.push(videoIndex);
+
+		if(alreadyPlayed.length === videoArr.length) {
+			alreadyPlayed = [];
+		}
+
 		videoContainer.innerHTML = videoArr[videoIndex];
 		console.log(videoIndex);
+		console.log(alreadyPlayed);
 	}
 
 	randomVideo();
