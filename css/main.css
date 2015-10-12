@@ -21,6 +21,14 @@ a:visited {
 	padding-bottom: 50px;
 }
 
+@media screen and (max-width: 560px) {
+	.container {
+		width: 100vw;
+		margin-left: 0px;
+		margin-right: 0px;
+	}
+}
+
 .row {
 	width: 100%;
 	display: flex;
@@ -76,6 +84,12 @@ a:visited {
 	font-size: 50px;
 	font-weight: 400;
 	color: #001011;
+}
+
+@media screen and (max-width: 560px) {
+	.page-heading {
+		font-size: 75px;
+	}
 }
 
 .nav-bar {
