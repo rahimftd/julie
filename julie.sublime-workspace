@@ -1,0 +1,448 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"video",
+				"videoArr"
+			],
+			[
+				"random",
+				"randomVideo"
+			],
+			[
+				"padding",
+				"padding-right"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"friend",
+				"friend-thumb-row"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"fri",
+				"friend-thumb-row"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"color",
+				"color"
+			],
+			[
+				"nav",
+				"navButtonOne"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"border-right",
+				"border-right-style"
+			],
+			[
+				"vi",
+				"videoArr"
+			],
+			[
+				"ali",
+				"text-align"
+			],
+			[
+				"mous",
+				"mouseOver"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"new",
+				"newHTMLHeaderRole"
+			],
+			[
+				"margi",
+				"margin-right"
+			],
+			[
+				"align",
+				"vertical-align"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"paddi",
+				"padding"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"border-bottom",
+				"border-bottom-color"
+			],
+			[
+				"border-botom",
+				"border-bottom-style"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"size",
+				"font-size"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"paddin",
+				"padding"
+			],
+			[
+				"bord",
+				"border-box"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"font-s",
+				"font-style"
+			],
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"colo",
+				"color"
+			],
+			[
+				"border-col",
+				"border-color"
+			],
+			[
+				"border-c",
+				"border-color"
+			],
+			[
+				"arrA",
+				"arrAvg"
+			],
+			[
+				"var",
+				"var"
+			],
+			[
+				"arr",
+				"arrAncestry"
+			],
+			[
+				"an",
+				"ancestry"
+			],
+			[
+				"collec",
+				"collectAgeDifferences"
+			],
+			[
+				"age",
+				"ageDifferences"
+			],
+			[
+				"anc",
+				"ancestryArr"
+			],
+			[
+				"array",
+				"arrayToListConverter"
+			],
+			[
+				"pro",
+				"properties"
+			],
+			[
+				"app",
+				"append"
+			],
+			[
+				"game",
+				"gameRec"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"backg",
+				"background-size"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"mari",
+				"margin-left"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 3286,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 87.0,
+		"selected_items":
+		[
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/rahim.dharssi/Documents/Coding Projects/JulieVideoProj/indexshell.html",
+		"/Users/rahim.dharssi/Documents/Coding Projects/JulieVideoProj/css/mobile.css",
+		"/Users/rahim.dharssi/Documents/Coding Projects/JsSelfLearning/test.js",
+		"/Users/rahim.dharssi/Documents/Coding Projects/JsSelfLearning/index.html",
+		"/Users/rahim.dharssi/Documents/Coding Projects/Udacity/JavaScript Basics/frontend-nanodegree-resume/js/resumeBuilder.js",
+		"/Users/rahim.dharssi/Documents/Coding Projects/Udacity/JavaScript Basics/frontend-nanodegree-resume/index.html",
+		"/Users/rahim.dharssi/Documents/Coding Projects/Udacity/IntroHTMLCSS/Final Project/css/style.css",
+		"/Users/rahim.dharssi/Documents/Coding Projects/Udacity/IntroHTMLCSS/Final Project/index.html",
+		"/Users/rahim.dharssi/Documents/Coding Projects/Udacity/IntroHTMLCSS/Lesson 3/portfolio/index.html",
+		"/Users/rahim.dharssi/Documents/Coding Projects/Udacity/IntroHTMLCSS/Lesson 3/portfolio/css/style.css",
+		"/Users/rahim.dharssi/Documents/Coding Projects/Udacity/IntroHTMLCSS/Lesson 3/portfolio/framework/bootstrap/bootstrap-prestructure.html",
+		"/Users/rahim.dharssi/Documents/Coding Projects/Udacity/IntroHTMLCSS/Lesson 1/MyFavoriteApp/style.css",
+		"/Users/rahim.dharssi/Documents/Coding Projects/Udacity/IntroHTMLCSS/Lesson 1/MyFavoriteApp/index.html",
+		"/Users/rahim.dharssi/Documents/Coding Projects/Udacity/IntroHTMLCSS/Lesson 1/BoxesToHTML/style.css",
+		"/Users/rahim.dharssi/Documents/Coding Projects/Udacity/IntroHTMLCSS/Lesson 1/BoxesToHTML/index.html",
+		"/Users/rahim.dharssi/Documents/Coding Projects/Javascript/EloquentJSExercises/C4_Journal.js",
+		"/Users/rahim.dharssi/Documents/Coding Projects/Javascript/underscore-js-simplified/README.md",
+		"/Users/rahim.dharssi/Documents/Coding Projects/Javascript/underscore-js-simplified/map.js",
+		"/Users/rahim.dharssi/Downloads/tillys"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"video",
+			"width=\"420\" height=\"315\"",
+			"width=\"560\" height=\"315\"",
+			"content",
+			"width",
+			"min",
+			"main",
+			"drawer",
+			"%;\n",
+			"45px",
+			"\">",
+			"color",
+			"25",
+			"<ProductType>Product Set",
+			"<ProductType>PRoduct Set",
+			"<ProductType>",
+			">Master Product</",
+			">Product</",
+			"Product</",
+			"variant",
+			"orange"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"class=\"video\"",
+			"15",
+			"",
+			"15"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 3286,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 184.0,
+	"status_bar_visible": true
+}
