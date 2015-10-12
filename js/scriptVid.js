@@ -26,8 +26,8 @@ function init() {
 		}
 
 		videoContainer.innerHTML = videoArr[videoIndex];
-		console.log(videoIndex);
-		console.log(alreadyPlayed);
+		//console.log(videoIndex);
+		//console.log(alreadyPlayed);
 	}
 
 	randomVideo();
